@@ -5,6 +5,6 @@ print(goal)
 # task 
 age = 25
 print(age)
-# upadating the value 
+# update the age by adding 5 to it
 age = age + 5 
 print(age)
