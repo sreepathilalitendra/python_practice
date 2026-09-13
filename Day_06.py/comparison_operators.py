@@ -1,15 +1,15 @@
-# Day 06 - Comparison Operators
+# Day 6 - Comparison Operators
 
 
 # Greater than (>)
-a = 10 
-b = 5 
+a = 10
+b = 5
 print(a > b)
 
 
 # Less than (<)
 a = 10
-b = 5 
+b = 5
 print(a < b)
 
 
@@ -36,7 +36,7 @@ print(a == b)
 
 # Not equal to (!=)
 a = 10
-b = 5 
+b = 5
 print(a != b)
 
 
@@ -44,7 +44,7 @@ print(a != b)
 print(10 != 10)
 
 
-# comparing strings
+# Comparing strings
 name = "python"
 print(name == "python")
 print(name == "Java")
@@ -60,7 +60,7 @@ print(name == "Python")
 print("Python" == "python")
 
 
-# comparing user input 
+# Comparing user input
 age = int(input("Enter your age: "))
 print(age >= 18)
 
