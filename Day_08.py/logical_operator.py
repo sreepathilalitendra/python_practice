@@ -1,9 +1,9 @@
 # Day 8 - Logical Operators
 
 
-# and operator  
+# and operator
 age = 20
-marks = 80 
+marks = 80
 print(age >= 18 and marks >= 40)
 
 
@@ -13,22 +13,22 @@ marks = 80
 print(age >= 18 and marks >= 40)
 
 
-# or operator 
+# or operator
 age = 16
 marks = 80
 print(age >= 18 or marks >= 40)
 
 
 # not operator
-age = 20 
-print(not age >= 18)
+age = 20
+print(not (age >= 18))
 
 
 # Example - 2
-print(not(10 > 20))
+print(not (10 > 20))
 
 
-# Real Example -> Marks 
+# Real Example -> Marks
 marks = int(input("Enter your marks: "))
 if marks >= 90 and marks <= 100:
     print("Grade A")
@@ -42,16 +42,16 @@ else:
     print("Fail")
 
 
-# Example with and 
+# Example with and
 age = 20
 marks = 80
-if age >= 18 and  marks >= 40:
+if age >= 18 and marks >= 40:
     print("Eligible")
 else:
     print("Not Eligible")
 
 
-# Example with or 
+# Example with or
 age = 16
 marks = 80
 if age >= 18 or marks >= 40:
