@@ -5,7 +5,6 @@ print("Hello Python")
 
 # Challenge 2
 print("Sreepathi Lalitendra")
-
 # Challenge 3
 print("I am learning Python")
 print("Python is easy")
