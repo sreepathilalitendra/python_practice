@@ -1,0 +1,11 @@
+{
+    "name": "Lalitendra",
+    "age": 18,
+    "course": "Diploma CSE",
+    "skills": [
+        "Python",
+        "Java",
+        "SQL"
+    ],
+    "is_student": true
+}
