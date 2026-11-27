@@ -1,7 +1,7 @@
 
 import unittest
 
-from day74_main import (
+from main import (
     add_numbers,
     calculate_average,
     multiply,
